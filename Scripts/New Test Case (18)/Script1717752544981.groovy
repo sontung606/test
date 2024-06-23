@@ -21,3 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.google.com/')
 
+WebUI.takeFullPageScreenshotAsCheckpoint('ck9', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.closeBrowser()
+

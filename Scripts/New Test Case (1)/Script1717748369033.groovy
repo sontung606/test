@@ -21,5 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.google.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/button_Khng, cm n'))
+WebUI.takeFullPageScreenshotAsCheckpoint('ck1', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.closeBrowser()
 
