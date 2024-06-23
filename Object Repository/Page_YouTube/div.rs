@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>3cc601ba-be0c-4202-9244-b4049dac0cb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//yt-icon[@id='guide-icon']/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#guide-icon > span.yt-icon-shape.yt-spec-icon-shape > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#start >> internal:label=&quot;Guide&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c534835d-520a-4ac4-8c8b-a3a92831a25e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start&quot;)/yt-icon-button[@id=&quot;guide-button&quot;]/button[@id=&quot;button&quot;]/yt-icon[@id=&quot;guide-icon&quot;]/span[@class=&quot;yt-icon-shape yt-spec-icon-shape&quot;]/div[1]</value>
+      <webElementGuid>2d0f8030-00b9-4e3a-82b6-2e87928dc489</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//yt-icon[@id='guide-icon']/span/div</value>
+      <webElementGuid>0128a615-2fc2-4541-aa94-6bfa2162e288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[1]</value>
+      <webElementGuid>78a91790-f639-4e90-a319-db519d4934a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NaN / NaN'])[2]/following::div[33]</value>
+      <webElementGuid>c7a5eced-dce3-4ae5-8e67-81b632f0710e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VN'])[1]/preceding::div[6]</value>
+      <webElementGuid>7deda62b-1a4e-4be5-9606-41290fd4fadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip navigation'])[1]/preceding::div[6]</value>
+      <webElementGuid>88d3b0b6-f42a-4262-a7d1-8a22cb187759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//yt-icon-button[2]/button/yt-icon/span/div</value>
+      <webElementGuid>a6d58067-ede8-4525-b1b3-19fd1d8f1a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//yt-icon[@id='logo-icon']/yt-icon-shape/icon-shape/div</value>
+      <webElementGuid>743bfb48-dee4-4608-bdd3-a3e30fa9b9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[5]</value>
+      <webElementGuid>e1414b05-74d9-4ecb-944c-d0b84e493a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NaN / NaN'])[2]/following::div[37]</value>
+      <webElementGuid>2e6524bc-a576-4001-b3c4-a83c43f2dc48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VN'])[1]/preceding::div[2]</value>
+      <webElementGuid>a107796d-a01d-4cee-8591-bc847cfd7604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip navigation'])[1]/preceding::div[2]</value>
+      <webElementGuid>a994187f-bf39-4a26-b53d-c8ac9c3aa624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-logo/yt-icon/yt-icon-shape/icon-shape/div</value>
+      <webElementGuid>65654400-d04d-46ee-9d8b-337d53d840e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

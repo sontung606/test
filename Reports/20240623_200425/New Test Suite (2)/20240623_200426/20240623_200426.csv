@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite (2),Chrome 126.0.0.0,,,23-06-2024 20:04:36,23-06-2024 20:04:44,8.684s,PASSED
+,,,,,,,
+Test Cases/google,Chrome 126.0.0.0,,,23-06-2024 20:04:36,23-06-2024 20:04:41,5.152s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,23-06-2024 20:04:36,23-06-2024 20:04:39,2.365s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 126.0.0.0,,,23-06-2024 20:04:39,23-06-2024 20:04:41,1.737s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Google/input_Bo co cc gi  khng ph hp_btnK""))",Chrome 126.0.0.0,,,23-06-2024 20:04:41,23-06-2024 20:04:41,0.657s,PASSED
+,,,,,,,
+Test Cases/google,Chrome 126.0.0.0,,,23-06-2024 20:04:41,23-06-2024 20:04:44,3.145s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,23-06-2024 20:04:41,23-06-2024 20:04:42,1.250s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 126.0.0.0,,,23-06-2024 20:04:42,23-06-2024 20:04:44,1.436s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Google/input_Bo co cc gi  khng ph hp_btnK""))",Chrome 126.0.0.0,,,23-06-2024 20:04:44,23-06-2024 20:04:44,0.423s,PASSED

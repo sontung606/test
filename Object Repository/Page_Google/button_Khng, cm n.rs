@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Khng, cm n</name>
+   <tag></tag>
+   <elementGuidId>93e4fdb6-9af5-4550-95a4-d70946fd0fd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.M6CB1c.rr4y5c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Không, cảm ơn&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>11f4863e-4bf9-4029-b7cb-d6af50776313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Không, cảm ơn</value>
+      <webElementGuid>3c554b4e-5907-40b0-8a43-057ed48365a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>M6CB1c rr4y5c</value>
+      <webElementGuid>4a07d2c4-771b-4320-9f6f-ed7b93e42f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>ZUkOIc</value>
+      <webElementGuid>dca55685-8b6b-4507-9f43-41fa4155174e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jslog</name>
+      <type>Main</type>
+      <value>71121; track:click;</value>
+      <webElementGuid>0bd0a925-a56c-4333-b68b-e45438cfc624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dismiss</name>
+      <type>Main</type>
+      <value>n</value>
+      <webElementGuid>910e59b9-ed4e-4c11-8522-108c4683e269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Không, cảm ơn</value>
+      <webElementGuid>16b3007a-87d3-4b72-9f61-d5f884c720c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb eejsDc&quot;]/div[@class=&quot;kFwPee&quot;]/c-wiz[1]/div[@class=&quot;WrcADd&quot;]/div[@class=&quot;vQ43Ie&quot;]/div[@class=&quot;eboQFe&quot;]/div[@class=&quot;DRc6kd bdn4dc&quot;]/div[@class=&quot;QlyBfb&quot;]/button[@class=&quot;M6CB1c rr4y5c&quot;]</value>
+      <webElementGuid>2beb7529-aad7-4768-b744-1123d2883ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Google/iframe_ng nhp_callout</value>
+      <webElementGuid>3acc1ee3-f672-46e2-beac-785a6ededf08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>6525d4d4-c961-41d1-a77d-ec077d511b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Được xây dựng cho Windows. Dễ dàng tìm kiếm trên Google bằng một trình duyệt nhanh và an toàn'])[1]/following::button[1]</value>
+      <webElementGuid>325ed048-b42c-4438-8340-0f747d794f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google khuyên bạn nên sử dụng Chrome'])[1]/following::button[1]</value>
+      <webElementGuid>0bed2f86-8ebc-47cf-9d01-b2ad501e186e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục'])[1]/preceding::button[1]</value>
+      <webElementGuid>6cfb87e4-ce69-4d33-843c-aa14f1a7693d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Không, cảm ơn']/parent::*</value>
+      <webElementGuid>c5372d80-9fcc-436f-b974-a78ee9f37c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>8a60c7b3-2920-468e-bd0b-aac9384d5450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Không, cảm ơn' or . = 'Không, cảm ơn')]</value>
+      <webElementGuid>643858f5-ab8c-4e1e-ab37-6ce473916e2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

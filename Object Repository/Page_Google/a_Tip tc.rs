@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tip tc</name>
+   <tag></tag>
+   <elementGuidId>1880a95e-5f8c-4800-bdd6-6ae1143af233</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.M6CB1c.yZqNl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div/div[2]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Tiếp tục&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f35a3530-f264-4aaf-9a86-8ee0abfb422b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Tiếp tục</value>
+      <webElementGuid>82850623-a4eb-4e6c-b152-d0ed60880e32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>M6CB1c yZqNl</value>
+      <webElementGuid>97339201-6768-42c7-b59c-12164c5bfffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.google.com/url?q=https://www.google.com/intl/vi/chrome/%3Fbrand%3DCHZN%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dbuilt-for-windows%26utm_keyword%3DCHZN&amp;source=hpp&amp;id=19025846&amp;ct=7&amp;usg=AOvVaw2zhHaRqC0_2lV3MoPdrO1F</value>
+      <webElementGuid>246fbcfc-59e7-434d-b652-f9e25e1a1f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>tf37qf</value>
+      <webElementGuid>99c86f81-5376-4711-bd0c-302cef2909bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jslog</name>
+      <type>Main</type>
+      <value>71122; track:click;</value>
+      <webElementGuid>b7a89772-70f9-470a-b94d-1905d1d7f8e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>8ee6d0f5-9097-42a4-98fd-83d98ee73439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dismiss</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f62dfc4d-22e0-474d-9366-9a9f21ca204a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiếp tục</value>
+      <webElementGuid>fe362c76-0174-4198-8889-414152d16210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb eejsDc&quot;]/div[@class=&quot;kFwPee&quot;]/c-wiz[1]/div[@class=&quot;WrcADd&quot;]/div[@class=&quot;vQ43Ie&quot;]/div[@class=&quot;eboQFe&quot;]/div[@class=&quot;DRc6kd bdn4dc&quot;]/div[@class=&quot;QlyBfb&quot;]/a[@class=&quot;M6CB1c yZqNl&quot;]</value>
+      <webElementGuid>fae30d32-0fe0-45bb-be14-3953ccc37d73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Google/iframe_ng nhp_callout</value>
+      <webElementGuid>ae7744f5-c5ca-40ee-bfbd-644cb671e032</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>75160a0d-4f44-42d6-aca3-20a0212b1b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tiếp tục')]</value>
+      <webElementGuid>f764aca8-ae01-4d32-b07a-e312a9d596f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không, cảm ơn'])[1]/following::a[1]</value>
+      <webElementGuid>99b21ae0-fb86-4ac3-a102-8da69a2e70e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Được xây dựng cho Windows. Dễ dàng tìm kiếm trên Google bằng một trình duyệt nhanh và an toàn'])[1]/following::a[1]</value>
+      <webElementGuid>28f9f5b3-c943-4b65-91fd-5f2f25ddf799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tiếp tục']/parent::*</value>
+      <webElementGuid>6f9f0eb6-6077-41d7-bc4b-2c4d4e805dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.google.com/url?q=https://www.google.com/intl/vi/chrome/%3Fbrand%3DCHZN%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dbuilt-for-windows%26utm_keyword%3DCHZN&amp;source=hpp&amp;id=19025846&amp;ct=7&amp;usg=AOvVaw2zhHaRqC0_2lV3MoPdrO1F')]</value>
+      <webElementGuid>0a07002e-ef38-4194-8c7c-fb0838b99fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>ab815447-6b57-4ea5-9693-90fdab79c7e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.google.com/url?q=https://www.google.com/intl/vi/chrome/%3Fbrand%3DCHZN%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dbuilt-for-windows%26utm_keyword%3DCHZN&amp;source=hpp&amp;id=19025846&amp;ct=7&amp;usg=AOvVaw2zhHaRqC0_2lV3MoPdrO1F' and (text() = 'Tiếp tục' or . = 'Tiếp tục')]</value>
+      <webElementGuid>ffee1245-4f9a-4db2-b061-c20fd93a6c67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
