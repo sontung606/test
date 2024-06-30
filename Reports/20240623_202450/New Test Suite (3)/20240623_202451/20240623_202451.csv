@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite (3),Chrome 126.0.0.0,,,23-06-2024 20:24:56,23-06-2024 20:25:01,4.824s,PASSED
+,,,,,,,
+Test Cases/google 3,Chrome 126.0.0.0,,,23-06-2024 20:24:57,23-06-2024 20:25:01,4.624s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,23-06-2024 20:24:57,23-06-2024 20:24:59,1.854s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 126.0.0.0,,,23-06-2024 20:24:59,23-06-2024 20:25:01,1.640s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Google/button_Khng, cm n""))",Chrome 126.0.0.0,,,23-06-2024 20:25:01,23-06-2024 20:25:01,0.649s,PASSED
