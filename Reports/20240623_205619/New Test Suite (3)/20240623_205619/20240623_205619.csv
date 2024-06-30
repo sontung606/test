@@ -1,7 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-New Test Suite (3),TestCloud - Windows - Chrome 124.0.0.0,,,23-06-2024 20:56:28,23-06-2024 20:57:54,1m - 26.270s,PASSED
-,,,,,,,
-Test Cases/google 3,TestCloud - Windows - Chrome 124.0.0.0,,,23-06-2024 20:56:28,23-06-2024 20:57:54,1m - 25.991s,PASSED
-"openBrowser("""")",TestCloud - Windows - Chrome 124.0.0.0,,,23-06-2024 20:56:29,23-06-2024 20:57:31,1m - 1.970s,PASSED
-"navigateToUrl(""https://www.google.com/"")",TestCloud - Windows - Chrome 124.0.0.0,,,23-06-2024 20:57:31,23-06-2024 20:57:35,4.487s,PASSED
-"verifyElementVisible(findTestObject(""Object Repository/Page_Google/button_Khng, cm n""))",TestCloud - Windows - Chrome 124.0.0.0,,,23-06-2024 20:57:35,23-06-2024 20:57:54,19.020s,PASSED
